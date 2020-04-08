@@ -1,0 +1,45 @@
+mitglied_titel	mitgliedskonto_zahlungsgrund	mitglied_kontoinhaber_plz	mitglied_telefon_dienstlich	mitglied_kontoinhaber_ort	mitglied_kontoinhaber_titel	mitglied_vermerk2	mitglied_beitragsgruppe_betrag	mitglied_vermerk1	mitglied_arbeitseinsatz_betrag	mitglied_eingabedatum	mitglied_beitragsgruppe_id	mitglied_eigenschaft_Barzahlung	mitglied_empfaenger	mitglied_handy	mitglied_kontoinhaber_vorname	mitglied_zahlungsrhytmus	mitglied_zahlungsweg	mitglied_externe_mitgliedsnummer	mitglied_bic	mitglied_plz	mitgliedskonto_buchungsdatum	mitglied_kontoinhaber_name	mitglied_kontoinhaber_adressierungszusatz	mitglied_ort	mitglied_email	mitglied_name	mitgliedskonto_zahlungsgrund1	mitglied_eigenschaft_Adresse nicht aktuell	mitglied_iban	mitglied_iban_maskiert	mitglied_zahlerid	mitglied_zahlungstermin	mitgliedskonto_ist	mitglied_kuendigung	mitglied_anrede_foermlich	mitglied_kontoinhaber_strasse	mitglied_kontoinhaber_anrede	mitglied_telefon_privat	mitglied_austritt	mitglied_personenart	mitglied_kontoinhaber_personenart	mitglied_strasse	mitglied_vornamename	mitglied_vorname	mitglied_adressierungszusatz	mitglied_zahlungsweg_text	mitglied_eigenschaft_Lastschrift	mitglied_id	mitglied_sterbetag	mitgliedskonto_betrag	mitglied_beitragsgruppe_bezeichnung	mitglied_eigenschaft_Überweisung	mitglied_kontoinhaber_staat	mitglied_namevorname	mitglied_individuellerbeitrag	mitglied_staat	mitglied_eintritt	mitglied_kontoinhaber_email	mitglied_eigenschaft_Mail nicht aktuell	mitglied_arbeitseinsatz_stunden	mitglied_bankname	mitgliedskonto_differenz	mitglied_letzte.aenderung	mitglied_geschlecht	mitglied_mandatid	mitglied_mandatdatum	mitglied_adresstyp	mitglied_anrede	mitglied_geburtsdatum	mitglied_anrede_du	mitglied_zahlungsrhythmus
+	Mitgliedsbeitrag 2015						30	geb.	0		1		"Herr
+Benedikt Hieber
+Am Bonifatiusbrunnen 7a
+79400 Kandern"			jährlich	2			79400	22.03.2016			Kandern	benedikt.hieber@example.de	Hieber	Mitgliedsbeitrag 2015					jährlich (Feb.)	0		Sehr geehrter Herr Hieber,					n	n	Am Bonifatiusbrunnen 7a	Benedikt Hieber	Benedikt		Bitte überweise den Betrag auf das angegebene Konto.		1		30	Aktiv	X		Hieber, Benedikt	0		01.01.2010			0		30	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Benedikt,	jährlich
+	Mitgliedsbeitrag 2016						30	geb.	0		1		"Herr
+Benedikt Hieber
+Am Bonifatiusbrunnen 7a
+79400 Kandern"			jährlich	2			79400	22.03.2016			Kandern	benedikt.hieber@example.de	Hieber	Mitgliedsbeitrag 2016					jährlich (Feb.)	0		Sehr geehrter Herr Hieber,					n	n	Am Bonifatiusbrunnen 7a	Benedikt Hieber	Benedikt		Bitte überweise den Betrag auf das angegebene Konto.		1		30	Aktiv	X		Hieber, Benedikt	0		01.01.2010			0		30	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Benedikt,	jährlich
+	Mitgliedsbeitrag 2014						30	geb.	0		1		"Herr
+Benedikt Hieber
+Am Bonifatiusbrunnen 7a
+79400 Kandern"			jährlich	2			79400	01.01.2014			Kandern	benedikt.hieber@example.de	Hieber	Mitgliedsbeitrag 2014					jährlich (Feb.)	0		Sehr geehrter Herr Hieber,					n	n	Am Bonifatiusbrunnen 7a	Benedikt Hieber	Benedikt		Bitte überweise den Betrag auf das angegebene Konto.		1		30	Aktiv	X		Hieber, Benedikt	0		01.01.2010			0		30	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Benedikt,	jährlich
+	Rücklastschrift 2015						30	geb.	0		1		"Herr
+Benedikt Hieber
+Am Bonifatiusbrunnen 7a
+79400 Kandern"			jährlich	2			79400	09.12.2015			Kandern	benedikt.hieber@example.de	Hieber	Rücklastschrift 2015					jährlich (Feb.)	-8,11		Sehr geehrter Herr Hieber,					n	n	Am Bonifatiusbrunnen 7a	Benedikt Hieber	Benedikt		Bitte überweise den Betrag auf das angegebene Konto.		1		0	Aktiv	X		Hieber, Benedikt	0		01.01.2010			0		8,11	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Benedikt,	jährlich
+	Rücklastschrift 2014						30	geb.	0		1		"Herr
+Benedikt Hieber
+Am Bonifatiusbrunnen 7a
+79400 Kandern"			jährlich	2			79400	24.02.2014			Kandern	benedikt.hieber@example.de	Hieber	Rücklastschrift 2014					jährlich (Feb.)	0		Sehr geehrter Herr Hieber,					n	n	Am Bonifatiusbrunnen 7a	Benedikt Hieber	Benedikt		Bitte überweise den Betrag auf das angegebene Konto.		1		8,11	Aktiv	X		Hieber, Benedikt	0		01.01.2010			0		8,11	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Benedikt,	jährlich
+	Mitgliedsbeitrag 2016						50	geb.	0		2		"Herr
+Christian Kießling
+Drachenschlucht 25
+34253 Lohfelden "			jährlich	2			34253	22.03.2016			Lohfelden	christian.kiesling@example.de	Kießling	Mitgliedsbeitrag 2016					jährlich (Feb.)	0		Sehr geehrter Herr Kießling,					n	n	Drachenschlucht 25	Christian Kießling	Christian		Bitte überweise den Betrag auf das angegebene Konto.		2		50	Passiv_50	X		Kießling, Christian	50		01.01.2010			0		50	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Christian,	jährlich
+	Mitgliedsbeitrag 2014						50	geb.	0		2		"Herr
+Christian Kießling
+Drachenschlucht 25
+34253 Lohfelden "			jährlich	2			34253	01.01.2014			Lohfelden	christian.kiesling@example.de	Kießling	Mitgliedsbeitrag 2014					jährlich (Feb.)	0		Sehr geehrter Herr Kießling,					n	n	Drachenschlucht 25	Christian Kießling	Christian		Bitte überweise den Betrag auf das angegebene Konto.		2		50	Passiv_50	X		Kießling, Christian	50		01.01.2010			0		50	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Christian,	jährlich
+	Mitgliedsbeitrag 2015						50	geb.	0		2		"Herr
+Christian Kießling
+Drachenschlucht 25
+34253 Lohfelden "			jährlich	2			34253	22.03.2016			Lohfelden	christian.kiesling@example.de	Kießling	Mitgliedsbeitrag 2015					jährlich (Feb.)	0		Sehr geehrter Herr Kießling,					n	n	Drachenschlucht 25	Christian Kießling	Christian		Bitte überweise den Betrag auf das angegebene Konto.		2		50	Passiv_50	X		Kießling, Christian	50		01.01.2010			0		50	01.01.2016	m		01.01.1900	1	Herrn	01.01.1900	Hallo Christian,	jährlich
+	Mitgliedsbeitrag 2016						30		0		1		"Frau
+Beate Späth
+Hohe Landwehr 42
+19288 Göhlen"			jährlich	1			19288	17.03.2016			Göhlen	beate.spaeth@example.de	Späth	Mitgliedsbeitrag 2016					jährlich (Feb.)	0		Sehr geehrter Frau Späth,					n	n	Hohe Landwehr 42	Beate Späth	Beate		Bitte überweise den Betrag auf das angegebene Konto.	X	3		30	Aktiv			Späth, Beate	0		01.01.2010			0		30	01.01.2016	f		01.01.1900	1	Frau	01.01.1900	Hallo Beate,	jährlich
+	Mitgliedsbeitrag 2014						30		0		1		"Frau
+Beate Späth
+Hohe Landwehr 42
+19288 Göhlen"			jährlich	1			19288	01.01.2014			Göhlen	beate.spaeth@example.de	Späth	Mitgliedsbeitrag 2014					jährlich (Feb.)	0		Sehr geehrter Frau Späth,					n	n	Hohe Landwehr 42	Beate Späth	Beate		Bitte überweise den Betrag auf das angegebene Konto.	X	3		30	Aktiv			Späth, Beate	0		01.01.2010			0		30	01.01.2016	f		01.01.1900	1	Frau	01.01.1900	Hallo Beate,	jährlich
+	Mitgliedsbeitrag 2015						30		0		1		"Frau
+Beate Späth
+Hohe Landwehr 42
+19288 Göhlen"			jährlich	1			19288	22.03.2016			Göhlen	beate.spaeth@example.de	Späth	Mitgliedsbeitrag 2015					jährlich (Feb.)	0		Sehr geehrter Frau Späth,					n	n	Hohe Landwehr 42	Beate Späth	Beate		Bitte überweise den Betrag auf das angegebene Konto.	X	3		30	Aktiv			Späth, Beate	0		01.01.2010			0		30	01.01.2016	f		01.01.1900	1	Frau	01.01.1900	Hallo Beate,	jährlich

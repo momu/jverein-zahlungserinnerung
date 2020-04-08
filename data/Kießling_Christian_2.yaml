@@ -1,0 +1,26 @@
+---
+"to": |-
+  Herr  
+  Christian Kießling  
+  Drachenschlucht 25  
+  34253 Lohfelden 
+"sum": |-
+  150,00
+"opening": |-
+  Hallo Christian,
+"email": |-
+  Christian Kießling <christian.kiesling@example.de>
+"position":
+- "description": |-
+    Mitgliedsbeitrag 2016
+  "value": |-
+    50
+- "description": |-
+    Mitgliedsbeitrag 2014
+  "value": |-
+    50
+- "description": |-
+    Mitgliedsbeitrag 2015
+  "value": |-
+    50
+...

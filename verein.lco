@@ -1,0 +1,12 @@
+
+\setkomavar*{fromphone}{Telefon: }
+\setkomavar*{fromemail}{}
+\setkomavar*{fromurl}{}
+\addtokomafont{fromname}{\sffamily}
+\addtokomafont{fromaddress}{\sffamily}
+\addtokomafont{backaddress}{\sffamily}
+
+\renewcommand*{\raggedsignature}{\raggedright}
+
+%\@setplength{firstheadvpos}{17mm} 
+\@setplength{firstfootvpos}{270mm} 

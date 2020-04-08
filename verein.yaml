@@ -1,0 +1,40 @@
+---
+letteroption:
+- DIN          # typeset following DIN norm
+- verein      # loads example style file example.lco
+lang: de
+fontsize: 12pt
+papersize: a4
+mainfont: Liberation Serif
+sansfont: Liberation Sans
+fromalign: left
+graphics: true
+fromlogo: \includegraphics[width=5cm]{logo}
+fromname: \protect{Verein e.\,V.}
+fromaddress: |
+    Straße 1  
+    10000 Stadt
+fromphone: \protect{030\,123456789}
+fromemail: verein@foo.bar
+fromurl: http://www.verein-foo-bar.de
+backaddress: Verein, Straße 1, 10000 Stadt
+subject: Zahlungserinnerung
+closing: Freundliche Grüße
+place: Berlin
+signature: | 
+    John Doe  
+    Kassenwart
+firstfoot: |
+    \hrule \sffamily \footnotesize
+    Vorstand: Vorstand 1 · Vorstand 2 · Vorstand 3  
+    Konto: Bank · \protect{IBAN DE00\,1234\,1234\,1234\,1234\,00} · BIC XXXXXXXXXXX  
+    Eingetragen im Vereinsregister beim Amtsgericht Gericht Reg.-Nr. VR 12345 B.
+body_one: |
+    laut meinen Unterlagen sind noch folgende Beiträge offen:
+body_two: |
+    Bitte überweise den offenen Betrag in Höhe von 
+body_three:
+    innerhalb der nächsten zwei Wochen auf das unten angegebene Konto.
+    
+
+...

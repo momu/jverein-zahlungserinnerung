@@ -1,0 +1,26 @@
+---
+"to": |-
+  Frau  
+  Beate Späth  
+  Hohe Landwehr 42  
+  19288 Göhlen
+"sum": |-
+  90,00
+"opening": |-
+  Hallo Beate,
+"email": |-
+  Beate Späth <beate.spaeth@example.de>
+"position":
+- "description": |-
+    Mitgliedsbeitrag 2016
+  "value": |-
+    30
+- "description": |-
+    Mitgliedsbeitrag 2014
+  "value": |-
+    30
+- "description": |-
+    Mitgliedsbeitrag 2015
+  "value": |-
+    30
+...
